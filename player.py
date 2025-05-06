@@ -1,3 +1,1 @@
-new = False
-name = "test"
-diff = 1
+new = True
