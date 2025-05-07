@@ -1,0 +1,9 @@
+new = False
+name = "test"
+diff = 1
+hp = 5
+atk = 7
+gold = 0
+exp = 0
+lv = 0
+hpot = 2
