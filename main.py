@@ -92,6 +92,7 @@ def shop():
     elif shop_input == "2":
         main()
 
+# Save system for player file
 def save(new, name, diff, hp, atk, gold, exp, lv, hpot):
     os.system(cmd)
 
